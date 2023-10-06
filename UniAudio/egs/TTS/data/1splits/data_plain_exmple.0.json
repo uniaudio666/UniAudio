@@ -1,0 +1,16 @@
+{
+    "keys": {
+        "phone_seq": "UniAudio/UniAudio/egs/TTS/data/1splits/phone.1.pt",
+        "audio_seq": "UniAudio/UniAudio/egs/TTS/data/1splits/wav_codec_3layer.1.pt"
+    },
+    "type": [
+        "phone",
+        "audio"
+    ],
+    "features": {},
+    "loss_key": "audio_seq",
+    "encoder_keys": [
+        "phone_seq"
+    ],
+    "task": "plain_tts"
+}
