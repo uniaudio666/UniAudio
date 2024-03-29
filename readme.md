@@ -15,3 +15,4 @@ The more clear documents for UniAudio will be released after the double-blind re
 
 ### Training the UniAudio
 
+The details of training document will be released.
